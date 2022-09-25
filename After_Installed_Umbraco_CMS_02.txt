@@ -1,0 +1,29 @@
+Modified
+        modified:   UmbracoCMS/UmbracoCMS/Web.config
+        modified:   UmbracoCMS/UmbracoCMS/config/umbracoSettings.config
+
+Added new:
+        After_Installed_Umbraco_CMS.txt
+        DB/
+        UmbracoCMS/UmbracoCMS/App_Data/
+        
+        new file:   After_Installed_Umbraco_CMS.txt
+        new file:   After_Installed_Umbraco_CMS_02.txt
+        new file:   DB/script.sql
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/Logs/UmbracoTraceLog.DESKTOP-T24DE9U.20220925.json
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ClientDependency/DESKTOP-T24DE9U-a3f003922aa9b02c54a0f00c0558ee20-map.xml
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/DistCache/LMW3SVC2ROOT-lastsynced.txt
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ExamineIndexes/External/segments.gen
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ExamineIndexes/External/segments_1
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ExamineIndexes/Internal/segments.gen
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ExamineIndexes/Internal/segments_1
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ExamineIndexes/Members/segments.gen
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/ExamineIndexes/Members/segments_1
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/NuCache/NuCache.Content.db
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/NuCache/NuCache.Content.tlog
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/NuCache/NuCache.Media.db
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/NuCache/NuCache.Media.tlog
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/TypesCache/umbraco-types.DESKTOP-T24DE9U.hash
+        new file:   UmbracoCMS/UmbracoCMS/App_Data/TEMP/TypesCache/umbraco-types.DESKTOP-T24DE9U.list
+        modified:   UmbracoCMS/UmbracoCMS/Web.config
+        modified:   UmbracoCMS/UmbracoCMS/config/umbracoSettings.config
