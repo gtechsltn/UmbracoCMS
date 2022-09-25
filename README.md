@@ -14,3 +14,8 @@
 + ASP.NET Empty project                                   
 + UmbracoCMS: Open source ASP.NET CMS   version 8.18.5   (https://our.umbraco.com/download/releases/)
 + Articulate: Package | Module                            version 4.3.2     (https://github.com/Shazwazza/Articulate/releases)
+
+## Account
++ Name: Nguyen Van Chien
++ U: chien672001@gmail.com
++ P: Abcde@12345-
