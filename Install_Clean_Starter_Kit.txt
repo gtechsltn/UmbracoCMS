@@ -1,0 +1,14 @@
+Clean Starter Kit
+https://our.umbraco.com/packages/starter-kits/clean-starter-kit/
+
+The Clean Starter Kit for Umbraco uses the Start Bootstrap Theme Clean Blog. It has been implemented in Umbraco as a Starter Kit by Paul Seal who has the blog codeshare.co.uk and works for the Umbraco Gold Partner Moriyama.
+
+Version 1.0.1 is an Umbraco 8 version which you can install via the v8 packages section in the backoffice or by downloading the zip file and installing it as a local package in v8.
+
+Version 2.0.0 is an Umbraco 9 and 10 version which you install as a NuGet package. Now updated to use Bootstrap 5.
+
+Video
+https://www.youtube.com/watch?v=tzcSNHg77fo
+
+Admin page
+http://localhost:3118/umbraco#/
